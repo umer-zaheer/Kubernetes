@@ -1,0 +1,8 @@
+this will give nodes of kind-cka-cluster2
+powershell:
+kubectl get nodes
+
+//change context
+
+powershell:
+kubectl config --set-context kind-cka-cluster1
